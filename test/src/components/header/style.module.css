@@ -1,0 +1,16 @@
+
+.container {
+    background-color: fuchsia;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
